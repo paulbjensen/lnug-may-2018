@@ -1,0 +1,20 @@
+{
+	"name": "02-database-schema-management",
+	"version": "1.0.0",
+	"description": "Part of LNUG May 2018 talk",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"knex",
+		"lnug",
+		"objection"
+	],
+	"author": "Paul Jensen <paul@anephenix.com>",
+	"license": "MIT",
+	"dependencies": {
+		"knex": "^0.14.6",
+		"objection": "^1.1.8",
+		"pg": "^7.4.3"
+	}
+}
