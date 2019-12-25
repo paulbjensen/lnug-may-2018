@@ -15,7 +15,7 @@
 	"dependencies": {
 		"express": "^4.16.3",
 		"express-graphql": "^0.6.12",
-		"knex": "^0.19.5",
+		"knex": "^0.20.4",
 		"objection": "^1.1.8",
 		"objection-graphql": "^0.4.0",
 		"pg": "^7.4.3"
