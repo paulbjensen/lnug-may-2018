@@ -13,7 +13,7 @@
 	"author": "Paul Jensen <paul@anephenix.com>",
 	"license": "MIT",
 	"dependencies": {
-		"knex": "^0.19.5",
+		"knex": "^2.4.0",
 		"objection": "^2.2.16",
 		"pg": "^7.4.3"
 	}
